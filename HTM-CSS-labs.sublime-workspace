@@ -1,0 +1,286 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fig",
+				"figcaption\tTag"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"h",
+				"h1\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 3082,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"ui",
+				"UI: Select Theme"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"UI: Select Theme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 222.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76';",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Prog/Study/HTML-CSS/Specialist/labs"
+	],
+	"file_history":
+	[
+		"/C/Prog/Study/HTML-CSS/Specialist/labs/index.html",
+		"/C/Users/Yuriy/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Prog/Study/HTML-CSS/Academy/barbershop/.editorconfig",
+		"/D/Курсы/Prog/[HTML Academy] Профессиональный HTML и CSS Уровень 1/12 Макеты/barbershop/barbershop/svg/cross.svg",
+		"/D/Курсы/Prog/[HTML Academy] Профессиональный HTML и CSS Уровень 1/12 Макеты/barbershop/barbershop/svg/facebook.svg",
+		"/C/Prog/Study/HTML-CSS/Academy/barbershop/index.html",
+		"/C/Users/Yuriy/.lesshst",
+		"/C/Users/Yuriy/.gitconfig",
+		"/C/Prog/Study/HTML-CSS/Academy/device/Readme.md",
+		"/C/Prog/Study/HTML-CSS/Academy/device/.gitignore",
+		"/D/Курсы/Prog/[Специалист] HTML и CSS. Уровень 1/html/demo/module-1/specsymbols.html",
+		"/C/Prog/Study/C#/C-ConsoleApp/FirstMeeting/03_StringDataType.cs",
+		"/C/Prog/Study/C#/C-ConsoleApp/ConsoleApp1.34",
+		"/C/Prog/Study/HTML-CSS/Academy/device/index.html",
+		"/C/Prog/Study/HTML-CSS/Academy/gllacy/.gitattributes",
+		"/C/Prog/Study/HTML-CSS/Academy/barbershop/.gitattributes",
+		"/C/Prog/Study/HTML-CSS/Academy/101840-device/index.html",
+		"/C/Prog/Study/Git/git_tutorial/work/hello/index.html",
+		"/C/Prog/Study/HTML-CSS/Academy/101840-device/.gitignore",
+		"/C/Prog/Study/HTML-CSS/Academy/101840-device/.git/config",
+		"/C/Prog/Study/HTML-CSS/Academy/853773-barbershop/Readme.md",
+		"/C/Prog/Study/HTML-CSS/Academy/853773-barbershop/index.html",
+		"/C/Users/Yuriy/AppData/Local/Temp/_tc/701085-device-master/.editorconfig",
+		"/C/Users/Yuriy/AppData/Local/Temp/_tc/701085-device-master/js/README",
+		"/C/Users/Yuriy/AppData/Local/Temp/_tc/701085-device-master/img/README",
+		"/C/Users/Yuriy/AppData/Local/Temp/_tc/701085-device-master/css/README",
+		"/C/Users/Yuriy/AppData/Local/Temp/_tc/701085-device-master/.gitignore",
+		"/C/Prog/Study/Git/git_tutorial/work/hello/.git/HEAD",
+		"/C/Prog/Study/Git/git_tutorial/work/hello/.git/refs/tags/v1",
+		"/C/Prog/Study/Git/git_tutorial/work/hello/hello.html",
+		"/C/Program Files/Git/mingw64/etc/gitconfig",
+		"/C/Prog/Study/Git/git_tutorial/work/hello/.git/COMMIT_EDITMSG",
+		"/C/Prog/Study/C#/C-ConsoleApp/.git/config",
+		"/C/Prog/Study/C#/C-ConsoleApp/.git/index",
+		"/C/Prog/Study/C#/C-ConsoleApp/.gitignore",
+		"/C/Prog/Study/Git/git_tutorial/files/lab_03/hello.html",
+		"/C/Prog/Study/Git/git_tutorial/work/hello/.git/config",
+		"/C/GoogleDrive/Prog/Study/01 web-programming/Week 2/index.html",
+		"/C/GoogleDrive/Prog/Study/01 web-programming/Week 2/css/style.css",
+		"/C/Users/Yuriy/source/repos/App1/App1/App.xaml.cs",
+		"/C/GoogleDrive/Prog/Study/01 web-programming/Week 2/inner.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 3082,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "HTM-CSS-labs.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Prog\\Study\\HTML-CSS\\Academy\\barbershop\\HTML-CSS-barbershop.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 211.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
